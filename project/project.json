@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Recipe Archived",
+    "tech": "HTML, CSS & Electron JS",
+    "image": "./assets/img/project/recipe.png",
+    "desc": "Collaborated on a by-pair project and developed a desktop application using Open-AI API that generate recipe based on the user input.",
+    "links": {
+      "code": "https://github.com/raviejay/Frontend"
+    }
+  },
+  {
+    "title": "Car Rental",
+    "tech": "HTML, CSS & Electron JS",
+    "image": "./assets/img/project/rental.png",
+    "desc": "Collaborated on a group project to design and implement a car rental desktop application where the user can appoint a specific date to rent a car.",
+    "links": {
+      "code": ""
+    }
+  },
+  {
+    "title": "Portfolio Website",
+    "tech": "HTML, CSS, JS & BOOTSTRAP",
+    "image": "./assets/img/project/portfolio.png",
+    "desc": "This is my project for personal portfolio.",
+    "links": {
+      "code": "https://github.com/eddyv03/personal-website"
+    }
+  }
+]
